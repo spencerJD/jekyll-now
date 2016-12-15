@@ -4,7 +4,6 @@ title: Expanding Your Job Search Skills
 ---
 
 Job prospects for many graduate students and post docs seem daunting in the current academic market. We are constantly told how there are fewer and fewer tenure track positions while the number of PhDs continually rises. Much of our training is focused on the presumption that we will stay in the academy in a primary research or teaching position, leaving us to seek out non-academic job search skills on our own.
-
 <br>
 
 Luckily, Cornell University held a workshop on this very subject on June 15 of this year titled ‘Expanding Your Job Search Skills.’ More than 50 graduate students and post docs from social and life sciences attended the workshop hoping to gain insight and confidence in their options to leave academia. Speakers from career services, the office of postdoctoral studies, and alumni who have left academia spoke on some of the major concerns about leaving academia and tools to help us do so.
