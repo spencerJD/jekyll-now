@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Expanding Your Job Search Skills
+comments: true
 ---
 
 Job prospects for many graduate students and post docs seem daunting in the current academic market. We are constantly told how there are fewer and fewer tenure track positions while the number of PhDs continually rises. Much of our training is focused on the presumption that we will stay in the academy in a primary research or teaching position, leaving us to seek out non-academic job search skills on our own.
