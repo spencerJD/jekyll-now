@@ -4,9 +4,6 @@ title: 16S rRNA Sequence Analysis using DADA2
 comments: true
 ---
 
-Objective
-=========
-
 This tutorial will walk through the basic steps needed to process 16S rRNA amplicon datasets using the DADA2 package in R. This walkthrough is basically a rehashing of what is presented here: <http://benjjneb.github.io/dada2/bigdata_paired.html>
 
 Data Formatting
