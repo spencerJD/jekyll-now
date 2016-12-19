@@ -46,7 +46,7 @@ fnRs <- paste0(path, fnRs)
 plotQualityProfile(fnFs[[1]])
 ```
 
-![](images/quality_profile.png)
+![](images/quality_profile.jpg)
 
 We can see from this plot that our sequences start to drop in quality around base 150. Additionally, the first 10 bases are lower quality than the rest. You should repeat this for the reverse reads, and use these cutoffs in the code chunk below.
 
