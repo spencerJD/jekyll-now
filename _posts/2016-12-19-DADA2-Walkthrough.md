@@ -4,9 +4,9 @@ title: 16S rRNA Sequence Analysis using DADA2
 comments: true
 ---
 
-In the Buckley lab, we have been using a 
+In the Buckley lab, we have been using a MacGuyvered sequence analysis pipeline with components from Mothur, QIIME, and custom scripts for the majority of our amplicon sequence datasets. Before leaving for a new position, Chuck Pepe-Ranney (a previous postdoc in the Buckley lab) introduced me to the [DADA2](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3869.html) pipeline and laid the groundwork for our lab's transition to use it. I have since been working with fellow labmates to integrate DADA2 into our analytical pipeline and wanted to share how we're using it today.
 
-This tutorial will walk through the basic steps needed to process 16S rRNA amplicon datasets using the DADA2 package in R. This walkthrough is basically a rehashing of what is presented here: <http://benjjneb.github.io/dada2/bigdata_paired.html>
+This tutorial will walk through the basic steps needed to process 16S rRNA amplicon datasets using the DADA2 package in R. It is basically a rehashing of what is presented [here](http://benjjneb.github.io/dada2/bigdata_paired.html) with some minor changes and a few additional steps for easy handoff to existing scripts we use. 
 
 Data Formatting
 ---------------
