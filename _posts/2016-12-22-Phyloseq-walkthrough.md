@@ -1,3 +1,9 @@
+---
+layout: post
+title: Introduction to Basic Microbial Ecology Data Analysis Using Phyloseq, Vegan, and DESeq2
+comments: true
+---
+
 In my last post, I walked through the process of analyzing an amplicon sequence dataset with the DADA2 pipeline. At the end of that walkthrough, I combined an OTU table, taxonomy table, and sample metadata together into a `Phyloseq` object. This post will go through some of the basic data exploration we do in the Buckley lab with microbiome datasets. This is a total jumping off point, and the packages we use have much more depth than I explore here. This is just a walkthrough to show basic functionality instead of a highly specialized analysis pipeline.
 
 Data Source
