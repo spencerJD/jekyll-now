@@ -13,4 +13,4 @@ I am currently a postdoc in Soil and Crop Sciences at Cornell University working
 <br>
 <br>
  
-When I am not in the lab or field, I enjoy hiking, riding/working on motorcycles, LEGO, reading, and knitting. My fiancee does some awesome photography through the microscope, so check out her instagram @under.the.scope!
+When I am not in the lab or field, I enjoy hiking, riding/working on motorcycles, LEGO, boardgames, reading, and knitting. My fiancee does some awesome photography through the microscope, so check out her instagram @under.the.scope!
